@@ -1,91 +1,114 @@
-"# Cardio-Bot" 
+# **Cardio-Bot**  
+*Your Heart Health Companion ❤️*  
 
-Cardio-Bot: Your Heart Health Companion ❤️
-Cardio-Bot is an AI-powered chatbot designed to provide accurate and reliable heart health advice. With a sleek and interactive interface, it combines the power of advanced Natural Language Processing (NLP) with user-friendly design, making heart health guidance accessible to everyone.
+Cardio-Bot is an AI-powered chatbot designed to provide accurate and reliable advice on heart health. With a sleek and interactive interface, it combines advanced Natural Language Processing (NLP) with user-friendly design, making heart health guidance accessible to everyone.  
 
-Features
-Heart Health Expertise: Provides AI-driven answers to questions about heart health.
-Interactive Web App: Built with Streamlit for a modern, easy-to-use interface.
-Professional Design: Attractive and engaging UI for the best user experience.
-Customizable & Extendable: Modify or add new features based on your needs.
-Demo
-Watch Cardio-Bot in Action!
-You can view the demo video included in this repository. Simply download and play the file:
+---
 
-File Name: demo.mp4
-Location: Root folder of this repository.
+## **Features**  
 
-Installation
-Prerequisites
-Python 3.8 or higher
-pip (Python package installer)
-Steps
-Clone this repository:
+- **Heart Health Expertise**: AI-driven answers to heart health-related queries.  
+- **Interactive Web App**: Built with Streamlit for a modern and intuitive user experience.  
+- **Professional Design**: Attractive and engaging user interface.  
+- **Customizable & Extendable**: Easily modify or add new features to suit your needs.  
 
-bash
-Copy
-Edit
-git clone https://github.com/Parimala-15/Cardio-Bot.git  
-cd Cardio-Bot  
-Install the required libraries:
+---
 
-Copy
-Edit
-pip install -r requirements.txt  
-Run the application:
+## **Demo**  
 
-arduino
-Copy
-Edit
-streamlit run app.py  
-Open your browser and access the app at http://localhost:8501.
+💡 *Watch Cardio-Bot in action!*  
+The demo video is included in this repository. You can download and play it to explore the app.  
 
-Contributing
-We welcome contributions to improve Cardio-Bot! Here's how you can help:
+- **File Name**: `demo.mp4`  
+- **Location**: Root folder of this repository  
 
-Fork this repository.
+---
 
-Create a new branch:
+## **Installation**  
 
-css
-Copy
-Edit
-git checkout -b feature-name  
-Commit your changes:
+### **Prerequisites**  
+- Python 3.8 or higher  
+- pip (Python package installer)  
 
-sql
-Copy
-Edit
-git commit -m "Added a new feature"  
-Push to the branch:
+### **Steps to Install and Run the App**  
 
-perl
-Copy
-Edit
-git push origin feature-name  
-Create a Pull Request.
+1. **Clone this Repository**:  
+   ```bash
+   git clone https://github.com/Parimala-15/Cardio-Bot.git  
+   cd Cardio-Bot  
+   ```  
 
-Please ensure your code adheres to our coding standards and is well-documented.
+2. **Install the Required Libraries**:  
+   ```bash
+   pip install -r requirements.txt  
+   ```  
 
-License
-This project is licensed under the MIT License.
-You are free to use, modify, and distribute this project under the terms of the license.
-See the LICENSE file for details.
+3. **Run the Application**:  
+   ```bash
+   streamlit run app.py  
+   ```  
 
-Acknowledgements
-We would like to thank:
-The Streamlit team for providing a powerful platform for creating web apps.
-The creators of transformers, torch, and other libraries used in this project.
-All open-source contributors whose work made this project possible.
+4. **Access the App**:  
+   Open your browser and navigate to [http://localhost:8501](http://localhost:8501).  
 
-Contact
-Have questions or feedback? Feel free to reach out:
+---
 
-Author: Parimala Murugan
-Email: parimalamurugan15@gmail.com
-GitHub: Parimala-15
-LinkedIn: Parimala Dharshini
+## **Contributing**  
 
-A Final Note
-Cardio-Bot is built with care and passion to promote heart health awareness. Remember, your health is your wealth—take good care of your heart! ❤️
+We welcome contributions to improve Cardio-Bot!  
+
+### **How to Contribute**  
+1. **Fork the Repository**: Click the "Fork" button on the top-right of this page.  
+2. **Create a New Branch**:  
+   ```bash
+   git checkout -b feature-name  
+   ```  
+3. **Commit Your Changes**:  
+   ```bash
+   git commit -m "Added a new feature"  
+   ```  
+4. **Push to Your Branch**:  
+   ```bash
+   git push origin feature-name  
+   ```  
+5. **Create a Pull Request**: Open a pull request to the main branch of this repository.  
+
+Please ensure your code adheres to coding standards and includes proper documentation.  
+
+---
+
+## **License**  
+
+This project is licensed under the **MIT License**.  
+You are free to use, modify, and distribute this project under the terms of the license.  
+For more details, see the [LICENSE](LICENSE) file.  
+
+---
+
+## **Acknowledgements**  
+
+We extend our gratitude to:  
+- The **Streamlit** team for providing an exceptional platform for building web apps.  
+- The creators of **transformers**, **torch**, and other libraries used in this project.  
+- All open-source contributors whose work made this project possible.  
+
+---
+
+## **Contact**  
+
+Have questions or feedback? Feel free to get in touch:  
+
+- **Author**: Parimala Murugan  
+- **Email**: [parimalamurugan15@gmail.com](mailto:parimalamurugan15@gmail.com)  
+- **GitHub**: [Parimala-15](https://github.com/Parimala-15)  
+- **LinkedIn**: [Parimala Dharshini](https://www.linkedin.com/in/parimala-dharshini-903b4a271)  
+
+---
+
+## **A Final Note**  
+
+Cardio-Bot is built with care and passion to promote heart health awareness.  
+💖 *Your health is your wealth—take good care of your heart!* 💖  
+
+---
 
