@@ -1,0 +1,7 @@
+streamlit
+PyPDF2
+langchain-community
+fitz
+requests
+python-dotenv
+cohere
