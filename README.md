@@ -41,7 +41,16 @@ The demo video is included in this repository. You can download and play it to e
 2. **Install the Required Libraries**:  
    ```bash
    pip install -r requirements.txt  
-   ```  
+   ```
+   ## 🔗 Download Cardio-Bot's LLM Model
+
+The BioMistral 7B (Quantized GGUF) model used in this project is too large to be stored directly in the repository.
+
+You can download it using the link below:
+
+[📥 Download BioMistral-7B.Q4_K_M.gguf (Google Drive)](https://drive.google.com/file/d/1mzIAUstHJ-qxtnfku-ChXQ6cw3SG4k18/view?usp=drive_link)
+
+
 
 3. **Run the Application**:  
    ```bash
